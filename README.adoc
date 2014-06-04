@@ -1,0 +1,46 @@
+= Building an application: A series of presentations about building an application from the ground up
+
+This repository will contain different presentation content (source files and resources) looking at the various aspects of building an application (some may not be limited to Java EE based applications but are more general) from the very beginnings all the way to the finished product. The presentations and materials are not to be used as an application, but as reference and ideas for building an application.
+
+Possible topics in this series:
+
+* Fundamentals
+** Version Control
+*** Distributive
+*** Centralized
+*** Workflow
+** Build tools
+*** Language based
+*** General
+*** Specialized
+** Project layout
+*** Build tool bias
+*** Language expectations
+*** Naming conventions
+** Target Audience
+*** Browser based
+**** Responsive Web
+**** Desktop only
+*** CLI
+*** Native Mobile
+** Testing
+*** Types of testing
+*** When to test
+*** What to test
+** Continuous Integration
+*** Tools
+*** Build type (full/smoke)
+** Reporting
+*** Code Coverage
+*** finding bugs
+*** finding bad practices
+*** How often
+*** Statistics
+
+* Back end (non persistence)
+* Persistence
+* Security
+* Front end
+* Performance
+* Interoperability
+* Maintenance
